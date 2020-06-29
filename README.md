@@ -1,5 +1,13 @@
 # Go_task
 
+### NOTE:
+> In this task I have replaced the twitter search API with a public youtube posts search API.
+> The reason for the change is that twitter had not accepted my application for a develepor account,
+> and therefore I didn't have any access to twitter's search API. So I decided to find an alternative
+> in order to finish the task on time.
+> Attached below are the screenshots for the all the API's results as required.
+
+
 ## **Register API :**
 
 ![postman](screenshots/1.png)
